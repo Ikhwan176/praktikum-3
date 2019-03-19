@@ -13,6 +13,7 @@ LATIHAN 2
 "if" = fungsi kita bisa menjalankan suatu perintah dalam kondisi tertentu.
 "break = fungsi yang menghentikan operasi dibawahnya jika suatu kondisi yang ditentukan telah tercapai.
 
+![52914172-cda58b00-32f7-11e9-93ce-b9b682efe371](https://user-images.githubusercontent.com/46913338/54630652-ec40a280-4aac-11e9-8f2f-57ba4d071a6b.JPG)
 
 PRAKTIKUM 3
 "print" = fungsi untuk mencetak atau menampilkan objek ke perangkat keluaran (Layar).
