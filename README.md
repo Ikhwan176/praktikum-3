@@ -3,7 +3,7 @@
 LATIHAN 1
 "Import" = fungsi lanjut yang dipanggil oleh statement import.
 "Range" = fungsi yang menghasilkan list.
-https://raw.githubusercontent.com/Ikhwan176/praktikum-3/master/52914172-cda58b00-32f7-11e9-93ce-b9b682efe371.JPG
+
 LATIHAN 2
 "while" = disebut uncounted loop (perulangan yang tak terhitung), untuk perulangan yang memilki syarat dan tidak tentu berapa banyak perulangan.
 "int" = fungsi untuk mengkonversi bilangan maupun string angka menjadi bilangan bulat (integer).
