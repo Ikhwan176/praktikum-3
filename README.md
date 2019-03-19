@@ -5,7 +5,7 @@ LATIHAN 1
 
 "Import" = fungsi lanjut yang dipanggil oleh statement import.
 "Range" = fungsi yang menghasilkan list.
-![52914172-cda58b00-32f7-11e9-93ce-b9b682efe371](https://user-images.githubusercontent.com/46913338/54630652-ec40a280-4aac-11e9-8f2f-57ba4d071a6b.JPG)
+![WhatsApp Image 2019-03-20 at 01 19 42](https://user-images.githubusercontent.com/46913338/54631462-9ff66200-4aae-11e9-8326-a61e98975609.jpeg)
 
 LATIHAN 2
 "while" = disebut uncounted loop (perulangan yang tak terhitung), untuk perulangan yang memilki syarat dan tidak tentu berapa banyak perulangan.
