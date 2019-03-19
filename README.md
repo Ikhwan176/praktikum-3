@@ -1,10 +1,9 @@
 # praktikum-3
 ![52914169-cc745e00-32f7-11e9-8f36-61630a9c781b](https://user-images.githubusercontent.com/46913338/54626776-76383d80-4aa4-11e9-82f6-51b7bb662baa.JPG)
 LATIHAN 1
-
 "Import" = fungsi lanjut yang dipanggil oleh statement import.
 "Range" = fungsi yang menghasilkan list.
-"uniform" = fungsi untuk menampilkan bilangan float random dengan batas awal bilangan x dan batas akhir bilangan y.
+https://raw.githubusercontent.com/Ikhwan176/praktikum-3/master/52914172-cda58b00-32f7-11e9-93ce-b9b682efe371.JPG
 LATIHAN 2
 "while" = disebut uncounted loop (perulangan yang tak terhitung), untuk perulangan yang memilki syarat dan tidak tentu berapa banyak perulangan.
 "int" = fungsi untuk mengkonversi bilangan maupun string angka menjadi bilangan bulat (integer).
